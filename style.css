@@ -1,13 +1,15 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Yrsa:wght@300&display=swap');
     body {
         color: coral;
+        font-family: 'Yrsa', serif;
     }
     a {
         text-decoration-line: none;
         color: red;
+        vertical-align: super;
     }
     .shadow {
-       bow-shadow: 8px 6px 20px darkgrey;
+       text-shadow: 8px 6px 5px darkgrey;
     }
     .gras {
         font-weight: bold;
