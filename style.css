@@ -32,6 +32,7 @@
     #position {
         float: right;
         float: top;
+        width: 600px;
     }
     li {
         list-style-type: square;
