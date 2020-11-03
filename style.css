@@ -24,6 +24,8 @@
     }
     .cadre {
         border: 1px solid black;
+        border-radius: 20px 8px;
+        box-shadow: 8px 6px darkgrey;
         height: 500px;
         width: 300px;
     }
@@ -33,6 +35,7 @@
     }
     li {
         list-style-type: square;
+        color: cadetblue;
     }
     a:hover {
         cursor: hand;
