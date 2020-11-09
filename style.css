@@ -1,43 +1,52 @@
 @import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Yrsa:wght@300&display=swap');
-    body {
-        color: coral;
-        font-family: 'Yrsa', serif;
-    }
-    a {
-        text-decoration-line: none;
-        color: red;
-        vertical-align: super;
-    }
-    .shadow {
-       text-shadow: 8px 6px 5px darkgrey;
-    }
-    .gras {
-        font-weight: bold;
-    }
-    .italique {
-        font-style: italic;
-    }
-    p {
-        margin: 15px;
-        padding: 20px;
-        text-indent: 20px;
-    }
-    .cadre {
-        border: 1px solid black;
-        border-radius: 20px 8px;
-        box-shadow: 8px 6px darkgrey;
-        height: 500px;
-        width: 300px;
-    }
-    #position {
-        float: right;
-        float: top;
-        width: 600px;
-    }
-    li {
-        list-style-type: square;
-        color: cadetblue;
-    }
-    a:hover {
-        cursor: hand;
-    }
+body {
+    color: coral;
+    font-family: 'Yrsa', serif;
+}
+
+a {
+    text-decoration-line: none;
+    color: red;
+    vertical-align: super;
+}
+
+.shadow {
+   text-shadow: 8px 6px 5px darkgrey;
+}
+
+.gras {
+    font-weight: bold;
+}
+
+.italique {
+    font-style: italic;
+}
+
+p {
+    margin: 15px;
+    padding: 20px;
+    text-indent: 20px;
+}
+
+.cadre {
+    border: 1px solid black;
+    border-radius: 20px 8px;
+    box-shadow: 8px 6px darkgrey;
+    height: 500px;
+    width: 300px;
+}
+
+#position {
+    float: right;
+    float: top;
+    width: 600px;
+}
+
+li {
+    list-style-type: square;
+    color: cadetblue;
+}
+
+a:hover {
+    cursor: hand;
+}
